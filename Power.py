@@ -1,6 +1,6 @@
-Problem: Given a number N, let the reverse of the number be R. The task is to print the output of the Expression pow(N,R), where pow function represents N raised to power R.
-Time complexity: log(n)
-Solution:
+#Problem: Given a number N, let the reverse of the number be R. The task is to print the output of the Expression pow(N,R), where pow function represents N raised to power R.
+#Time complexity: log(n)
+#Solution:
 def power(x,y):
     if y==0:
         return 1
